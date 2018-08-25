@@ -1,0 +1,22 @@
+{
+    "message": "All users in database",
+    "count": 4,
+    "users": [
+        {
+          "name": "Dara",
+          "age": 20
+        },
+        {
+          "name": "Sok",
+          "age": 22
+        },
+        {
+          "name": "Sao",
+          "age": 18
+        },
+        {
+          "name": "Sao",
+          "age": 18
+        }
+    ]
+}
